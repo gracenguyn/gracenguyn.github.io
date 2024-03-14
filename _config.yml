@@ -1,5 +1,9 @@
 title: Grace Nguyen
-#logo: path/to/img
-description: Statistics and Data Science Student at UT Austin, Projected Graduation May 2026
-show_downloads: true
+email: nguyengrace@utexas.edu
+description: Statistics and Data Science Student #ignores newlines until baseurl
+github_username: gracenguyn
+
+#build settings
 theme: minima
+plugins:
+  - jekyll-feed
