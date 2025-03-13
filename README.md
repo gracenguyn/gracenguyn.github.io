@@ -1,4 +1,8 @@
+last updated march 12, 2025
+
 # Grace Nguyen
+## About Me
+Hello! Welcome to my page. My name is Grace Nguyen, i'm a 20 year old Statistics and Data Science student at the University of Texas at Austin, with projected graduation in May 2026. I'm interested in the intersection of data and finance, and i'm also curious about the sports analytics industry. I'll be spending Summer 2025 with Bloomberg in Princeton, and i'm currently looking for data opportunities for Fall 2025 and beyond. Beyond technology, I love fashion, traveling, and food (whether i'm cooking for myself, hosting dinners for friends, or going out and trying new restaurants).
 
 ## Education
 
